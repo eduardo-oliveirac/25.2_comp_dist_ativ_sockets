@@ -1,4 +1,4 @@
-# Atividade: Calculadora Cliente–Servidor com Sockets em C
+# Calculadora Cliente–Servidor com Sockets em C
 
 ## Integrantes
 - Eduardo Oliveira Carvalho - 10417170
