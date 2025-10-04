@@ -1,8 +1,8 @@
 /*
-    chat_server.c
-    Servidor do mini chat multi clientes usando select()
-    Compilação manual: gcc -Wall -Wextra -02 -o chat_server chat_server.c
-    Execução: ./chat_server <port>
+    server.c
+    Servidor da mini calculadora multi clientes usando select()
+    Compilação manual: gcc -Wall -Wextra -02 server.c -o server
+    Execução: ./server <port>
 
     Fluxo da execução:
      1) socket(AF_INEF, SOCK_STEAM, 0)
